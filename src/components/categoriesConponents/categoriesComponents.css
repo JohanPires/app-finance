@@ -1,0 +1,10 @@
+.categorieComponents {
+  width: 80%;
+  margin: 60px auto;
+}
+
+.categories {
+  display: flex;
+  gap: 20px;
+  margin: 20px 0;
+}
